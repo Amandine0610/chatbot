@@ -1,0 +1,122 @@
+[
+  {
+    "question": "What are the symptoms of diabetes?",
+    "answer": "Common symptoms of diabetes include frequent urination, excessive thirst, unexplained weight loss, extreme fatigue, blurred vision, slow-healing cuts and bruises, and tingling or numbness in hands or feet. If you experience these symptoms, consult a healthcare professional for proper diagnosis."
+  },
+  {
+    "question": "How can I prevent heart disease?",
+    "answer": "To prevent heart disease: maintain a healthy diet low in saturated fats and high in fruits and vegetables, exercise regularly (at least 150 minutes per week), avoid smoking, limit alcohol consumption, manage stress, maintain a healthy weight, control blood pressure and cholesterol levels, and get regular check-ups."
+  },
+  {
+    "question": "What should I do if I have a fever?",
+    "answer": "For fever management: rest and stay hydrated, take over-the-counter fever reducers like acetaminophen or ibuprofen as directed, wear light clothing, use cool compresses, and monitor your temperature. Seek medical attention if fever exceeds 103°F (39.4°C), persists for more than 3 days, or is accompanied by severe symptoms."
+  },
+  {
+    "question": "How often should I get a check-up?",
+    "answer": "Generally, healthy adults should have annual check-ups. However, frequency may vary based on age, health conditions, and risk factors. Adults over 65 or those with chronic conditions may need more frequent visits. Discuss with your healthcare provider to determine the best schedule for your individual needs."
+  },
+  {
+    "question": "What are the side effects of high blood pressure medication?",
+    "answer": "Common side effects of blood pressure medications may include dizziness, fatigue, headache, nausea, and changes in heart rate. Specific side effects vary by medication type. ACE inhibitors may cause dry cough, diuretics may cause frequent urination, and beta-blockers may cause cold hands and feet. Always consult your doctor about side effects."
+  },
+  {
+    "question": "How much water should I drink daily?",
+    "answer": "The general recommendation is about 8 glasses (64 ounces) of water per day, but individual needs vary based on activity level, climate, overall health, and pregnancy or breastfeeding status. A good indicator is pale yellow urine. Increase intake during exercise, hot weather, or illness."
+  },
+  {
+    "question": "What foods should I eat for better immunity?",
+    "answer": "Foods that boost immunity include citrus fruits (vitamin C), leafy greens, garlic, ginger, yogurt with probiotics, almonds, turmeric, green tea, sweet potatoes, and fatty fish rich in omega-3s. A balanced diet with variety of nutrients supports overall immune function better than any single food."
+  },
+  {
+    "question": "How do I know if my child has an ear infection?",
+    "answer": "Signs of ear infection in children include ear pain, tugging at ears, difficulty sleeping, fever, fluid drainage from ear, hearing problems, loss of balance, and irritability. In infants, watch for excessive crying, difficulty feeding, and restlessness. Consult a pediatrician for proper diagnosis and treatment."
+  },
+  {
+    "question": "What is the difference between cold and flu?",
+    "answer": "Cold symptoms develop gradually and include runny nose, sneezing, mild cough, and low-grade fever. Flu symptoms appear suddenly and are more severe: high fever, body aches, severe fatigue, dry cough, and headache. Flu typically lasts longer and can lead to serious complications. Both are viral infections."
+  },
+  {
+    "question": "How can I improve my sleep quality?",
+    "answer": "To improve sleep: maintain a consistent sleep schedule, create a comfortable sleep environment (cool, dark, quiet), avoid caffeine and large meals before bedtime, establish a relaxing bedtime routine, limit screen time before sleep, exercise regularly but not close to bedtime, and manage stress through relaxation techniques."
+  },
+  {
+    "question": "What are the warning signs of a stroke?",
+    "answer": "Remember FAST: Face drooping (smile is uneven), Arm weakness (can't raise both arms), Speech difficulty (slurred or strange speech), Time to call emergency services. Other signs include sudden confusion, trouble seeing, severe headache, and difficulty walking. Stroke is a medical emergency requiring immediate attention."
+  },
+  {
+    "question": "How can I manage stress naturally?",
+    "answer": "Natural stress management techniques include regular exercise, deep breathing exercises, meditation or mindfulness, adequate sleep, healthy diet, social support, time in nature, hobbies you enjoy, limiting caffeine and alcohol, and practicing gratitude. If stress becomes overwhelming, consider professional counseling."
+  },
+  {
+    "question": "What vaccines do adults need?",
+    "answer": "Adults typically need annual flu vaccine, Tdap (tetanus, diphtheria, pertussis) every 10 years, and may need others based on age, health conditions, and travel: pneumococcal, shingles (age 50+), hepatitis A/B, meningococcal, and HPV. Consult your healthcare provider for personalized vaccination recommendations."
+  },
+  {
+    "question": "How do I treat a minor burn?",
+    "answer": "For minor burns: immediately cool with cold running water for 10-20 minutes, remove jewelry before swelling, gently clean with mild soap, apply aloe vera or moisturizer, cover with sterile bandage if needed, take over-the-counter pain relievers, and keep the burn elevated if possible. Seek medical care for severe burns."
+  },
+  {
+    "question": "What are healthy snack options?",
+    "answer": "Healthy snacks include fresh fruits, vegetables with hummus, nuts and seeds, Greek yogurt, whole grain crackers with cheese, hard-boiled eggs, smoothies with fruits and vegetables, air-popped popcorn, and nut butter with apple slices. Choose snacks that combine protein, healthy fats, and fiber for sustained energy."
+  },
+  {
+    "question": "How can I lower my cholesterol naturally?",
+    "answer": "Natural ways to lower cholesterol: eat soluble fiber (oats, beans, fruits), choose healthy fats (olive oil, avocados, nuts), increase omega-3 fatty acids, exercise regularly, maintain healthy weight, quit smoking, limit alcohol, and reduce saturated and trans fats. Regular monitoring and medical supervision are important."
+  },
+  {
+    "question": "What should I know about taking antibiotics?",
+    "answer": "Important antibiotic guidelines: take exactly as prescribed, complete the full course even if feeling better, don't share with others, don't save leftover antibiotics, take with or without food as directed, be aware of potential side effects, and inform your doctor of any allergies. Antibiotics don't work against viral infections."
+  },
+  {
+    "question": "How do I care for a sprained ankle?",
+    "answer": "Follow RICE protocol: Rest (avoid activities that cause pain), Ice (apply for 15-20 minutes every 2-3 hours for first 48 hours), Compression (use elastic bandage, not too tight), and Elevation (raise above heart level when possible). Take over-the-counter pain relievers and gradually return to activity as tolerated."
+  },
+  {
+    "question": "What are signs of dehydration?",
+    "answer": "Dehydration signs include thirst, dry mouth, little or no urination, dark-colored urine, fatigue, dizziness, confusion, and dry skin. Severe dehydration may cause rapid heartbeat, rapid breathing, and sunken eyes. Mild dehydration can be treated by drinking fluids; severe cases require medical attention."
+  },
+  {
+    "question": "How can I prevent food poisoning?",
+    "answer": "Prevent food poisoning by: washing hands frequently, cooking foods to safe temperatures, refrigerating perishables promptly, avoiding cross-contamination (separate raw and cooked foods), washing fruits and vegetables, checking expiration dates, and being cautious with high-risk foods like raw eggs, undercooked meat, and unpasteurized products."
+  },
+  {
+    "question": "What exercise is best for beginners?",
+    "answer": "Beginner-friendly exercises include walking, swimming, cycling, bodyweight exercises (squats, push-ups, planks), yoga, and light resistance training. Start with 10-15 minutes daily and gradually increase duration and intensity. Choose activities you enjoy and consult a healthcare provider before starting any new exercise program."
+  },
+  {
+    "question": "How do I know if I have allergies or a cold?",
+    "answer": "Allergies typically cause itchy, watery eyes, clear nasal discharge, sneezing, and no fever, lasting as long as you're exposed to the allergen. Colds cause thick nasal discharge, mild fever, body aches, and typically last 7-10 days. Allergy symptoms are often seasonal or triggered by specific substances."
+  },
+  {
+    "question": "What should I do for back pain?",
+    "answer": "For back pain: rest briefly but stay active with gentle movement, apply ice for acute pain or heat for muscle tension, take over-the-counter pain relievers as directed, practice good posture, sleep on a firm mattress, and do gentle stretching. Seek medical attention for severe pain, numbness, or pain radiating down legs."
+  },
+  {
+    "question": "How can I boost my energy naturally?",
+    "answer": "Natural energy boosters include: getting adequate sleep (7-9 hours), eating balanced meals with complex carbohydrates and protein, staying hydrated, exercising regularly, managing stress, limiting caffeine and sugar, getting sunlight exposure, taking short breaks during work, and maintaining consistent daily routines."
+  },
+  {
+    "question": "What are the benefits of meditation for health?",
+    "answer": "Meditation benefits include reduced stress and anxiety, improved focus and concentration, better emotional regulation, lower blood pressure, improved sleep quality, enhanced immune function, reduced chronic pain, and increased self-awareness. Even 10-15 minutes daily can provide significant health benefits."
+  },
+  {
+    "question": "How do I treat a headache naturally?",
+    "answer": "Natural headache remedies include: staying hydrated, applying cold or warm compress, practicing relaxation techniques, getting adequate sleep, gentle neck and shoulder stretches, avoiding trigger foods, managing stress, and trying aromatherapy with peppermint or lavender oil. Frequent headaches warrant medical evaluation."
+  },
+  {
+    "question": "What should I eat before and after exercise?",
+    "answer": "Pre-exercise (1-3 hours before): complex carbohydrates with some protein (banana with peanut butter, oatmeal with fruit). Post-exercise (within 30-60 minutes): protein and carbohydrates to aid recovery (Greek yogurt with berries, chocolate milk, turkey sandwich). Stay hydrated before, during, and after exercise."
+  },
+  {
+    "question": "How can I improve my mental health?",
+    "answer": "Mental health improvement strategies include: regular exercise, adequate sleep, healthy diet, social connections, stress management techniques, mindfulness or meditation, engaging in hobbies, setting realistic goals, seeking professional help when needed, limiting alcohol and avoiding drugs, and practicing self-compassion and gratitude."
+  },
+  {
+    "question": "What are the signs of vitamin D deficiency?",
+    "answer": "Vitamin D deficiency signs include fatigue, bone and muscle pain, frequent infections, depression or mood changes, slow wound healing, bone loss, and hair loss. Risk factors include limited sun exposure, dark skin, older age, and certain medical conditions. Blood tests can confirm deficiency levels."
+  },
+  {
+    "question": "How do I maintain healthy skin?",
+    "answer": "Healthy skin maintenance includes: daily cleansing with gentle products, moisturizing regularly, using sunscreen (SPF 30+), staying hydrated, eating antioxidant-rich foods, getting adequate sleep, managing stress, avoiding harsh chemicals, not smoking, and protecting skin from extreme weather conditions."
+  }
+]
