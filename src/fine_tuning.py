@@ -239,7 +239,27 @@ class HealthcareFinetuner:
         # Use provided hyperparameters or search for best ones
         if hyperparameters is None:
             logger.info("No hyperparameters provided, starting search...")
-            hyperparameters = self.hyperparameter_search(dataset)
+            try:
+                hyperparameters = self.hyperparameter_search(dataset)
+            except Exception as e:
+                logger.error(f"Hyperparameter search failed: {e}")
+                logger.info("Using default hyperparameters instead...")
+                hyperparameters = {
+                    "learning_rate": 5e-5,
+                    "per_device_train_batch_size": 2,
+                    "num_train_epochs": 2,
+                    "warmup_steps": 100
+                }
+        
+        # Ensure hyperparameters is not None
+        if hyperparameters is None:
+            logger.warning("Hyperparameters is None, using defaults...")
+            hyperparameters = {
+                "learning_rate": 5e-5,
+                "per_device_train_batch_size": 2,
+                "num_train_epochs": 2,
+                "warmup_steps": 100
+            }
         
         logger.info(f"Fine-tuning with hyperparameters: {hyperparameters}")
         
