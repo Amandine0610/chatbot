@@ -92,8 +92,8 @@ class HealthcareDataPreprocessor:
         text = re.sub(r'[^\w\s.,!?;:()\-\']', '', text)
         
         # Normalize quotes
-        text = re.sub(r'[""]', '"', text)
-        text = re.sub(r'['']', "'", text)
+        text = re.sub(r'["""]', '"', text)
+        text = re.sub(r"['']", "'", text)
         
         # Strip leading/trailing whitespace
         text = text.strip()
