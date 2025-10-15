@@ -15,9 +15,14 @@ from datetime import datetime
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-from .model_manager import HealthcareModelManager
-from .data_preprocessing import HealthcareDataPreprocessor
-from .evaluation import HealthcareEvaluator
+try:
+    from .model_manager import HealthcareModelManager
+    from .data_preprocessing import HealthcareDataPreprocessor
+    from .evaluation import HealthcareEvaluator
+except ImportError:
+    from model_manager import HealthcareModelManager
+    from data_preprocessing import HealthcareDataPreprocessor
+    from evaluation import HealthcareEvaluator
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)

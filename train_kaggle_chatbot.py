@@ -188,7 +188,7 @@ def main():
         
         # Step 3: Model Setup
         logger.info("Step 3: Model Setup")
-        model_manager = HealthcareModelManager(args.model_key, args.output_dir)
+        model_manager = HealthcareModelManager(args.model_key)
         model, tokenizer = model_manager.load_model_and_tokenizer()
         
         # Log model info

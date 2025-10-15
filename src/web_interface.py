@@ -11,7 +11,10 @@ from datetime import datetime
 from typing import List, Tuple, Dict, Any
 import pandas as pd
 
-from .chatbot import HealthcareChatbot
+try:
+    from .chatbot import HealthcareChatbot
+except ImportError:
+    from chatbot import HealthcareChatbot
 
 # Set up logging
 logging.basicConfig(level=logging.INFO)
